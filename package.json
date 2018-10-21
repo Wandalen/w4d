@@ -1,7 +1,6 @@
-
 {
   "name": "w4d",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Modular 2d/3d graphics engine",
   "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
   "license": "MIT",
